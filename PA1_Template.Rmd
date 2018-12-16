@@ -1,8 +1,4 @@
----
-output:
-  pdf_document: default
-  html_document: default
----
+
 # This is the assignment submission for Reproducible Research Week2
 
 ## Loading the data file into a data frame (Data file is already downloaded and extracted)
